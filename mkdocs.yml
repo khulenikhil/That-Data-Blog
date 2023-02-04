@@ -1,4 +1,6 @@
 theme:
+  icon:
+    logo: material/database
   features:
     - header.autohide
     - content.code.copy
