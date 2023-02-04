@@ -1,0 +1,24 @@
+theme:
+  features:
+    - header.autohide
+    - content.code.copy
+    - content.code.annotate
+    - announce.dismiss
+    - content.tooltips
+    - navigation.prune
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+  name: material
+  palette:
+    scheme: pitchblack
+    primary: black
+    accent: cyan
+  font:
+    text: Inter
+    code: Roboto Mono
+
+site_name: That Data Blog
+extra_css:
+  - stylesheets/extra.css
